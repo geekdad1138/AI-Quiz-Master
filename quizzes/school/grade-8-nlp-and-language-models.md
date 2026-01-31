@@ -26,12 +26,6 @@ Eighth graders explore Natural Language Processing (NLP) - how computers underst
 - C) Learning languages in school
 - D) Processing networked computers
 
-**Correct Answer**: B
-
-**Explanation**
-
-NLP is the branch of AI that deals with language. It enables computers to read, understand, and generate human language like English, Spanish, or Chinese. NLP powers translation tools, chatbots, and voice assistants.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ NLP is the branch of AI that deals with language. It enables computers to read, 
 **Difficulty**: medium
 
 **Tokenization is the process of breaking text into smaller pieces called tokens.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Tokenization is a key NLP technique where text is split into tokens (usually words or subwords). For example, "Hello world" might be tokenized into ["Hello", "world"]. This helps computers process language more easily.
 
 ---
 
@@ -59,12 +47,6 @@ Tokenization is a key NLP technique where text is split into tokens (usually wor
 - C) Analyzing computer performance
 - D) Analyzing social networks
 
-**Correct Answer**: A
-
-**Explanation**
-
-Sentiment analysis uses NLP to determine if text expresses positive, negative, or neutral sentiment. It's used to analyze customer reviews, social media posts, and feedback. AI can learn to recognize emotional language.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ Sentiment analysis uses NLP to determine if text expresses positive, negative, o
 **Difficulty**: medium
 
 **Machine translation uses NLP to translate text from one language to another.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Machine translation systems like Google Translate use deep learning and NLP. Modern translation systems learn from millions of examples of how to translate between languages. They're getting better all the time!
 
 ---
 
@@ -92,12 +68,6 @@ Machine translation systems like Google Translate use deep learning and NLP. Mod
 - C) A book about language
 - D) A computer that speaks
 
-**Correct Answer**: B
-
-**Explanation**
-
-A language model is an AI system trained to understand patterns in text. It learns to predict what word comes next in a sentence. This technology powers autocomplete, chatbots, and other language applications.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ A language model is an AI system trained to understand patterns in text. It lear
 **Difficulty**: hard
 
 **Named Entity Recognition (NER) identifies and classifies named entities like people, places, and organizations in text.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-NER is an NLP technique that recognizes proper nouns in text. For example, it identifies "Paris" as a location and "Marie Curie" as a person. This is useful for information extraction and understanding text context.
 
 ---
 
@@ -125,12 +89,6 @@ NER is an NLP technique that recognizes proper nouns in text. For example, it id
 - C) Decorations in documents
 - D) Files embedded in programs
 
-**Correct Answer**: B
-
-**Explanation**
-
-Word embeddings convert words into mathematical vectors. Words with similar meanings are close together in this space. For example, "king" and "queen" embeddings would be near each other, reflecting their related meanings.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ Word embeddings convert words into mathematical vectors. Words with similar mean
 **Difficulty**: hard
 
 **Transformers are a type of neural network architecture that revolutionized NLP.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Transformer architecture was introduced in 2017 and has been revolutionary for NLP. It powers modern language models like GPT and BERT. Transformers can efficiently process and understand long sequences of text.
 
 ---
 
@@ -158,12 +110,6 @@ Transformer architecture was introduced in 2017 and has been revolutionary for N
 - C) Replacing human conversation completely
 - D) Nothing useful
 
-**Correct Answer**: B
-
-**Explanation**
-
-Modern large language models (like GPT-3 or GPT-4) can understand complex context and generate thoughtful responses. They can answer questions, write essays, explain concepts, and even write code. They're not perfect but are remarkably capable.
-
 ---
 
 ### Question 10
@@ -172,13 +118,7 @@ Modern large language models (like GPT-3 or GPT-4) can understand complex contex
 
 **Context and bias in training data are important concerns for NLP systems.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-NLP systems learn from text data, which reflects human biases and cultural context. A language model trained on biased text will perpetuate those biases. Understanding and mitigating bias in NLP is an important research area.
-
----
+\newpage
 
 ## Answer Key
 

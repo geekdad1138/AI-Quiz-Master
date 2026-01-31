@@ -26,12 +26,6 @@ Sixth graders dive deeper into machine learning - how computers learn from data,
 - C) Machine learning is only for games
 - D) There is no difference
 
-**Correct Answer**: B
-
-**Explanation**
-
-In traditional programming, developers write explicit rules. In machine learning, developers provide data and the system learns patterns from that data. This makes ML great for complex problems where it's hard to write all the rules.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ In traditional programming, developers write explicit rules. In machine learning
 **Difficulty**: medium
 
 **Training data is the information used to teach an AI system.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Training data is crucial for machine learning. It's the information an AI system learns from. The better the training data, the better the AI system performs. Bad data leads to bad results.
 
 ---
 
@@ -59,12 +47,6 @@ Training data is crucial for machine learning. It's the information an AI system
 - C) Learning without any help
 - D) Learning only in school
 
-**Correct Answer**: B
-
-**Explanation**
-
-Supervised learning is when an AI learns from data that has labels (correct answers). For example, images of cats labeled "cat" and images of dogs labeled "dog." The system learns the difference by seeing many labeled examples.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ Supervised learning is when an AI learns from data that has labels (correct answ
 **Difficulty**: medium
 
 **Unsupervised learning works with data that doesn't have labels.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-In unsupervised learning, the AI gets data without labels and tries to find patterns on its own. For example, it might group customers by shopping habits without being told what the groups should be.
 
 ---
 
@@ -92,12 +68,6 @@ In unsupervised learning, the AI gets data without labels and tries to find patt
 - C) The data itself
 - D) The computer hardware
 
-**Correct Answer**: B
-
-**Explanation**
-
-A model is the result of training. It's the mathematical system that has learned patterns from data. You can use a trained model to make predictions or decisions on new data it hasn't seen before.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ A model is the result of training. It's the mathematical system that has learned
 **Difficulty**: medium
 
 **Overfitting happens when an AI system memorizes training data instead of learning general patterns.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Overfitting is a problem in machine learning. If an AI memorizes specific training examples, it won't work well on new data. Good models learn patterns that work for data they haven't seen before.
 
 ---
 
@@ -125,12 +89,6 @@ Overfitting is a problem in machine learning. If an AI memorizes specific traini
 - C) No machine learning needed
 - D) Reinforcement learning
 
-**Correct Answer**: A
-
-**Explanation**
-
-House price prediction is a supervised learning problem. You have data about houses with their prices (labels). The system can learn patterns about what makes houses expensive or cheap.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ House price prediction is a supervised learning problem. You have data about hou
 **Difficulty**: hard
 
 **Cross-validation helps test if a machine learning model will work well on new data.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Cross-validation is a technique where developers split data into parts. They train on some parts and test on others. This helps ensure the model works on data it hasn't learned from.
 
 ---
 
@@ -158,12 +110,6 @@ Cross-validation is a technique where developers split data into parts. They tra
 - C) Making the program faster
 - D) Designing the user interface
 
-**Correct Answer**: B
-
-**Explanation**
-
-Features are the characteristics of data that the AI learns from. Feature engineering is about choosing which features matter and creating new useful ones from raw data. Good features lead to better models.
-
 ---
 
 ### Question 10
@@ -172,13 +118,7 @@ Features are the characteristics of data that the AI learns from. Feature engine
 
 **Reinforcement learning is how AI learns by getting rewards for good actions and penalties for bad actions.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-Reinforcement learning is how AI systems learn through interaction, like game AI learning to play better by winning (reward) or losing (penalty). It's inspired by how humans and animals learn through trial and error.
-
----
+\newpage
 
 ## Answer Key
 

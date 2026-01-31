@@ -26,12 +26,6 @@ Eleventh graders dive into modern AI architectures, focusing on Transformers and
 - C) An electrical device
 - D) A method for changing data format
 
-**Correct Answer**: B
-
-**Explanation**
-
-The Transformer architecture, introduced in the paper "Attention Is All You Need," revolutionized NLP and AI. It uses self-attention mechanisms instead of recurrent connections, allowing parallel processing and better handling of long sequences.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ The Transformer architecture, introduced in the paper "Attention Is All You Need
 **Difficulty**: hard
 
 **Attention mechanisms allow a model to focus on relevant parts of input.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Attention is a mechanism that lets neural networks focus on important parts of the input. In translation, the model attends to relevant words. In vision, it focuses on relevant image regions. Attention weights are learned during training.
 
 ---
 
@@ -59,12 +47,6 @@ Attention is a mechanism that lets neural networks focus on important parts of t
 - C) Monitoring your own performance
 - D) A type of meditation
 
-**Correct Answer**: B
-
-**Explanation**
-
-Self-attention allows each element in a sequence to relate to every other element. This enables the model to capture long-range dependencies. It's what makes Transformers so powerful - every word can "see" every other word.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ Self-attention allows each element in a sequence to relate to every other elemen
 **Difficulty**: hard
 
 **BERT is a pre-trained language model based on the Transformer architecture.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained Transformer model. It's trained on vast amounts of text and can be fine-tuned for specific tasks like sentiment analysis or question answering.
 
 ---
 
@@ -92,12 +68,6 @@ BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained 
 - C) Training in advance of an event
 - D) Initial training only
 
-**Correct Answer**: B
-
-**Explanation**
-
-Pre-training involves training a large model on massive amounts of text data. The model learns general language patterns, word relationships, and knowledge. This learned knowledge can then be fine-tuned for specific downstream tasks with smaller labeled datasets.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ Pre-training involves training a large model on massive amounts of text data. Th
 **Difficulty**: hard
 
 **GPT models use Transformer decoders and are designed for text generation.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-GPT (Generative Pre-trained Transformer) models are decoder-only Transformers trained to generate text. They predict the next word based on previous context. GPT models are extremely good at generating human-like text, code, and following instructions.
 
 ---
 
@@ -125,12 +89,6 @@ GPT (Generative Pre-trained Transformer) models are decoder-only Transformers tr
 - C) BERT is older
 - D) They're the same thing with different names
 
-**Correct Answer**: B
-
-**Explanation**
-
-BERT uses bidirectional context (sees words before and after) and is good for understanding tasks. GPT uses unidirectional context (left-to-right) and is good for generation. Both are Transformers but designed for different purposes.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ BERT uses bidirectional context (sees words before and after) and is good for un
 **Difficulty**: hard
 
 **Vision Transformers (ViTs) apply the Transformer architecture to image recognition tasks.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Vision Transformers split images into patches and treat them like sequences. This allows Transformers to be applied to vision tasks. They've shown competitive or superior performance compared to CNNs on image classification.
 
 ---
 
@@ -158,12 +110,6 @@ Vision Transformers split images into patches and treat them like sequences. Thi
 - C) Text embedded in an image
 - D) A hidden layer in a neural network
 
-**Correct Answer**: B
-
-**Explanation**
-
-Embeddings convert tokens (words or subwords) into high-dimensional vectors. Embeddings capture semantic relationships - similar words have similar embeddings. Token embeddings are a key component of Transformers.
-
 ---
 
 ### Question 10
@@ -171,12 +117,6 @@ Embeddings convert tokens (words or subwords) into high-dimensional vectors. Emb
 **Difficulty**: hard
 
 **The attention mechanism in Transformers uses query, key, and value vectors.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Self-attention works by computing queries, keys, and values for each element. The model learns to compute similarity between queries and keys to determine which elements to attend to, then aggregates the corresponding values.
 
 ---
 
@@ -191,13 +131,7 @@ Self-attention works by computing queries, keys, and values for each element. Th
 - C) Engineering a computer prompt
 - D) Prompting engineers
 
-**Correct Answer**: B
-
-**Explanation**
-
-Prompt engineering involves carefully crafting text prompts to get language models like ChatGPT to behave as desired. Good prompts can improve accuracy, creativity, and task performance. It's an important skill for working with modern AI systems.
-
----
+\newpage
 
 ## Answer Key
 

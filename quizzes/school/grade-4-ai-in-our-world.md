@@ -26,12 +26,6 @@ Fourth graders explore how Artificial Intelligence is used in the real world. Th
 - C) The screen
 - D) The camera lens
 
-**Correct Answer**: B
-
-**Explanation**
-
-Face recognition is a form of AI. Your phone learns your face and can recognize it to unlock itself. This is one way AI makes our phones smarter and more secure!
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ Face recognition is a form of AI. Your phone learns your face and can recognize 
 **Difficulty**: easy
 
 **Recommendation systems that suggest movies or music are examples of AI.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-When Netflix suggests movies or Spotify suggests songs you might like, that's AI! The system learns what you like by watching what you watch and listen to, then recommends similar things.
 
 ---
 
@@ -59,12 +47,6 @@ When Netflix suggests movies or Spotify suggests songs you might like, that's AI
 - C) A video game character
 - D) A messaging app
 
-**Correct Answer**: B
-
-**Explanation**
-
-A chatbot is an AI program that can talk with you. It reads your messages and responds. Some chatbots answer questions, some play games, and some help with customer service.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ A chatbot is an AI program that can talk with you. It reads your messages and re
 **Difficulty**: medium
 
 **Machine learning is when a computer learns from data without being given every single instruction.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Machine learning is one type of AI. Instead of a programmer writing every instruction, the computer learns patterns from data. It's like learning to recognize dogs by seeing many pictures of dogs instead of being told exactly what makes something a dog.
 
 ---
 
@@ -92,12 +68,6 @@ Machine learning is one type of AI. Instead of a programmer writing every instru
 - C) It only helps in emergencies
 - D) It cannot help doctors at all
 
-**Correct Answer**: B
-
-**Explanation**
-
-AI can analyze medical images like X-rays and scans to help doctors find problems. AI can spot things that might be hard for humans to see. It helps doctors make better decisions, but doctors still make the final call.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ AI can analyze medical images like X-rays and scans to help doctors find problem
 **Difficulty**: medium
 
 **Spam filters that keep bad emails out of your inbox use AI.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Email spam filters use AI to learn what spam looks like. They study millions of emails to recognize patterns in spam messages. This helps protect your email from unwanted messages.
 
 ---
 
@@ -125,12 +89,6 @@ Email spam filters use AI to learn what spam looks like. They study millions of 
 - C) To be intelligent
 - D) To make mistakes
 
-**Correct Answer**: B
-
-**Explanation**
-
-Bias in AI means the system is unfair or treats some groups differently. This happens when the data used to train AI is not representative of everyone. It's important for programmers to catch and fix bias in AI systems.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ Bias in AI means the system is unfair or treats some groups differently. This ha
 **Difficulty**: medium
 
 **Self-driving cars use AI to recognize roads, traffic signs, and pedestrians.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Self-driving cars use AI with computer vision to see and understand their surroundings. They learn from data about roads and traffic to drive safely. Many companies are working to make self-driving cars that people can trust.
 
 ---
 
@@ -158,13 +110,7 @@ Self-driving cars use AI with computer vision to see and understand their surrou
 - C) Making it complicated
 - D) Keeping humans out of the loop
 
-**Correct Answer**: B
-
-**Explanation**
-
-Good AI should be both accurate (works correctly) and fair (treats everyone equally). Programmers must test AI carefully and make sure it doesn't have bias. Humans should always be involved in important decisions.
-
----
+\newpage
 
 ## Answer Key
 

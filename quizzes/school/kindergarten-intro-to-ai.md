@@ -21,12 +21,6 @@ This quiz introduces kindergarteners to basic concepts about computers and robot
 
 **A computer is a machine that can follow instructions.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-Computers are smart machines that follow instructions we give them. They help us do many things like play games, watch videos, and send messages!
-
 ---
 
 ### Question 2
@@ -40,12 +34,6 @@ Computers are smart machines that follow instructions we give them. They help us
 - C) A drawing
 - D) A type of food
 
-**Correct Answer**: B
-
-**Explanation**
-
-A robot is a machine that can do tasks by itself. Some robots can move, some can talk, and some can even help doctors! Robots follow the instructions that people give them.
-
 ---
 
 ### Question 3
@@ -53,12 +41,6 @@ A robot is a machine that can do tasks by itself. Some robots can move, some can
 **Difficulty**: easy
 
 **Robots can think like people do.**
-
-**Correct Answer**: False
-
-**Explanation**
-
-Robots follow instructions, but they don't think the way people do. People made robots and told them what to do. Robots do what people teach them to do.
 
 ---
 
@@ -73,12 +55,6 @@ Robots follow instructions, but they don't think the way people do. People made 
 - C) An iPad
 - D) All of the above
 
-**Correct Answer**: D
-
-**Explanation**
-
-All of these things use computers inside them! Phones have tiny computers, TVs have computers, and iPads are computers. Computers are everywhere!
-
 ---
 
 ### Question 5
@@ -87,13 +63,7 @@ All of these things use computers inside them! Phones have tiny computers, TVs h
 
 **You use a computer when you play video games.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-Video games run on computers! Whether it's on a console, phone, or tablet, computers are making the game work and showing you the fun pictures and sounds.
-
----
+\newpage
 
 ## Answer Key
 

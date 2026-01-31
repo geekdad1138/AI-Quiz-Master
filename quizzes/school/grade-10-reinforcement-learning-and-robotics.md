@@ -26,12 +26,6 @@ Tenth graders explore Reinforcement Learning (RL) and its applications in roboti
 - C) Teaching a computer facts
 - D) Making something stronger
 
-**Correct Answer**: B
-
-**Explanation**
-
-Reinforcement learning is a paradigm where an AI agent learns through trial and error. It takes actions in an environment, receives rewards or penalties, and adjusts its behavior to maximize future rewards. It's inspired by how animals learn.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ Reinforcement learning is a paradigm where an AI agent learns through trial and 
 **Difficulty**: medium
 
 **A reward signal tells an RL agent how well it's doing.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Rewards are critical in RL. They tell the agent whether its actions were good or bad. The agent learns to maximize the cumulative reward over time. Reward design is crucial for training effective RL agents.
 
 ---
 
@@ -59,12 +47,6 @@ Rewards are critical in RL. They tell the agent whether its actions were good or
 - C) A computer server
 - D) A video game character
 
-**Correct Answer**: B
-
-**Explanation**
-
-An agent in RL is an autonomous entity that perceives its environment, takes actions, and learns from feedback. Agents can be game-playing AIs, robots, trading systems, or any system that learns through interaction.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ An agent in RL is an autonomous entity that perceives its environment, takes act
 **Difficulty**: medium
 
 **Q-learning is a popular reinforcement learning algorithm.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Q-learning is a classic RL algorithm that learns the "value" of actions in different states. It's model-free, meaning it doesn't need to know how the environment works. Q-learning has been very successful in game AI.
 
 ---
 
@@ -92,12 +68,6 @@ Q-learning is a classic RL algorithm that learns the "value" of actions in diffe
 - C) Building things vs. using them
 - D) Teaching vs. learning
 
-**Correct Answer**: B
-
-**Explanation**
-
-The exploration-exploitation tradeoff is fundamental to RL. Should the agent try new actions (explore) that might be better, or stick with actions it knows work (exploit)? Good agents balance both to learn efficiently.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ The exploration-exploitation tradeoff is fundamental to RL. Should the agent try
 **Difficulty**: hard
 
 **Policy gradients are a type of RL algorithm that directly learns a policy (action selection strategy).**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Policy gradient methods learn by directly optimizing the policy - the strategy the agent uses to choose actions. Unlike Q-learning which learns values, policy gradients learn which actions are best. They're powerful for complex tasks.
 
 ---
 
@@ -125,12 +89,6 @@ Policy gradient methods learn by directly optimizing the policy - the strategy t
 - C) A location on a map
 - D) A status message
 
-**Correct Answer**: B
-
-**Explanation**
-
-A state is the agent's perception of the current environment. In chess, a state might be the board configuration. In robotics, it might be sensor readings. States matter because the value of actions depends on the current state.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ A state is the agent's perception of the current environment. In chess, a state 
 **Difficulty**: hard
 
 **Deep reinforcement learning combines deep neural networks with RL to handle complex problems.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Deep RL uses neural networks to learn policies or value functions from high-dimensional inputs like images. DeepMind's AlphaGo and AlphaZero use deep RL to master chess and Go. It's incredibly powerful for complex tasks.
 
 ---
 
@@ -158,12 +110,6 @@ Deep RL uses neural networks to learn policies or value functions from high-dime
 - C) An equation for neural networks
 - D) An equation for game theory
 
-**Correct Answer**: B
-
-**Explanation**
-
-The Bellman equation is fundamental to RL. It states that the value of a state is the immediate reward plus the discounted value of the next state. Many RL algorithms are based on this principle.
-
 ---
 
 ### Question 10
@@ -171,12 +117,6 @@ The Bellman equation is fundamental to RL. It states that the value of a state i
 **Difficulty**: hard
 
 **Robots use reinforcement learning to learn motor control and manipulation skills.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-RL is increasingly used in robotics. Robots can learn to walk, pick up objects, and perform manipulation tasks through trial and error guided by rewards. It's more practical than hand-coding every robot behavior.
 
 ---
 
@@ -191,13 +131,7 @@ RL is increasingly used in robotics. Robots can learn to walk, pick up objects, 
 - C) Nobody wants robots to learn
 - D) Robots don't need to learn
 
-**Correct Answer**: B
-
-**Explanation**
-
-Real-world RL is expensive - each training interaction with a robot costs time and money. Unlike games where you can run millions of simulations, robots learn slowly. Sim-to-real transfer (training in simulation) helps address this challenge.
-
----
+\newpage
 
 ## Answer Key
 

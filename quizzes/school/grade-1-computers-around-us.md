@@ -26,12 +26,6 @@ First graders will explore how computers are part of their everyday lives. This 
 - C) A refrigerator
 - D) All of the above
 
-**Correct Answer**: D
-
-**Explanation**
-
-Computers are inside many things we use every day! Microwaves, refrigerators, and even some fancy toothbrushes have tiny computers that help them work. Computers are everywhere!
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ Computers are inside many things we use every day! Microwaves, refrigerators, an
 **Difficulty**: easy
 
 **A computer can only do things that a person tells it to do.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Computers are very smart, but they need instructions from people. A computer cannot decide to do something without someone teaching it to do that. People created computers and control what they do.
 
 ---
 
@@ -59,12 +47,6 @@ Computers are very smart, but they need instructions from people. A computer can
 - C) A computer doctor
 - D) A robot maker
 
-**Correct Answer**: B
-
-**Explanation**
-
-A programmer (or coder) writes instructions that tell computers what to do. Programmers use special languages to talk to computers. It's like they're teaching the computer how to behave!
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ A programmer (or coder) writes instructions that tell computers what to do. Prog
 **Difficulty**: easy
 
 **The internet is a way for computers to talk to each other.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-The internet connects billions of computers together all around the world. It's like a huge web that lets computers share information with each other. That's why we can send emails, watch videos, and play online games!
 
 ---
 
@@ -92,12 +68,6 @@ The internet connects billions of computers together all around the world. It's 
 - C) A movie theater
 - D) A piece of fabric
 
-**Correct Answer**: B
-
-**Explanation**
-
-A screen is the flat part of computers and tablets where we see pictures, words, and videos. Screens help us see what the computer is doing and communicate with it.
-
 ---
 
 ### Question 6
@@ -106,13 +76,7 @@ A screen is the flat part of computers and tablets where we see pictures, words,
 
 **Computers need electricity to work.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-Computers run on electricity, just like light bulbs and refrigerators. Without electricity, computers cannot turn on or work. Some computers use batteries, which store electricity so they can work when they're not plugged in!
-
----
+\newpage
 
 ## Answer Key
 
