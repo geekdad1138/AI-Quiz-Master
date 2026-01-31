@@ -26,12 +26,6 @@ Third graders are introduced to the concept of Artificial Intelligence (AI) - wh
 - C) Automated Internet
 - D) Advanced Information
 
-**Correct Answer**: B
-
-**Explanation**
-
-AI stands for Artificial Intelligence. "Artificial" means made by humans, and "Intelligence" means the ability to learn and solve problems. So AI is computer intelligence created by people!
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ AI stands for Artificial Intelligence. "Artificial" means made by humans, and "I
 **Difficulty**: easy
 
 **AI systems can learn from examples and data.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-One of the special things about AI is that it can learn. If you show an AI system many examples, it can learn patterns and get better at doing tasks. This is different from regular programs that only do what they're told.
 
 ---
 
@@ -59,12 +47,6 @@ One of the special things about AI is that it can learn. If you show an AI syste
 - C) A pencil
 - D) A doorbell
 
-**Correct Answer**: B
-
-**Explanation**
-
-Voice assistants like Alexa, Google Assistant, and Siri are examples of AI. They listen to what you say, understand it, and respond. They learn from many examples to get better at understanding different accents and languages.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ Voice assistants like Alexa, Google Assistant, and Siri are examples of AI. They
 **Difficulty**: easy
 
 **AI needs a human to program it before it can learn anything.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Even though AI can learn, a human programmer still needs to create the AI system first. They write the code that tells the AI how to learn from data. Humans created AI and still control how it works.
 
 ---
 
@@ -92,12 +68,6 @@ Even though AI can learn, a human programmer still needs to create the AI system
 - C) To like something
 - D) To remember a conversation
 
-**Correct Answer**: B
-
-**Explanation**
-
-When AI "recognizes" something, it means the AI can identify it based on patterns it learned. For example, face recognition AI learns what faces look like and can identify people. It recognizes them by their features.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ When AI "recognizes" something, it means the AI can identify it based on pattern
 **Difficulty**: medium
 
 **Computers with AI think the same way human brains think.**
-
-**Correct Answer**: False
-
-**Explanation**
-
-AI can do some things like human brains, but they don't think the same way. AI uses math and data patterns to make decisions, while human brains use different processes. Both can be smart in different ways!
 
 ---
 
@@ -125,12 +89,6 @@ AI can do some things like human brains, but they don't think the same way. AI u
 - C) Data
 - D) Electricity
 
-**Correct Answer**: C
-
-**Explanation**
-
-Data is the information that AI systems learn from. It could be pictures, words, numbers, or sounds. The more good data an AI system has, the better it can learn and make decisions.
-
 ---
 
 ### Question 8
@@ -139,13 +97,7 @@ Data is the information that AI systems learn from. It could be pictures, words,
 
 **AI is being used in many places, like schools, hospitals, and games.**
 
-**Correct Answer**: True
-
-**Explanation**
-
-AI is used all around us! In schools, AI can help teach students. In hospitals, AI can help doctors find problems. In games, AI controls the enemies you fight. We use AI more than we realize!
-
----
+\newpage
 
 ## Answer Key
 

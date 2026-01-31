@@ -26,12 +26,6 @@ Ninth graders explore Computer Vision - how AI systems see and understand images
 - C) Writing code to process cameras
 - D) Improving eyesight with computers
 
-**Correct Answer**: B
-
-**Explanation**
-
-Computer vision is the AI field focused on making computers "see." It involves algorithms that process images and video to extract information, recognize objects, detect faces, and understand scenes. It combines image processing and deep learning.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ Computer vision is the AI field focused on making computers "see." It involves a
 **Difficulty**: medium
 
 **Object detection is more complex than image classification.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Image classification says "this is a dog," while object detection says "there are two dogs here, here, and here" with precise locations. Object detection is harder because it needs to find multiple objects and their exact positions.
 
 ---
 
@@ -59,12 +47,6 @@ Image classification says "this is a dog," while object detection says "there ar
 - C) A photograph of a face
 - D) Drawing faces
 
-**Correct Answer**: B
-
-**Explanation**
-
-Facial recognition uses computer vision to identify or verify people based on their faces. It analyzes facial features like distance between eyes, nose shape, and jawline. It's used in security, phones, and social media.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ Facial recognition uses computer vision to identify or verify people based on th
 **Difficulty**: medium
 
 **Convolutional Neural Networks (CNNs) are the standard architecture for computer vision tasks.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-CNNs are specialized neural networks designed to process images. They use convolutional layers that can detect patterns, edges, and features. They've become the foundation for most computer vision applications.
 
 ---
 
@@ -92,12 +68,6 @@ CNNs are specialized neural networks designed to process images. They use convol
 - C) Cutting an image
 - D) Making an image smaller
 
-**Correct Answer**: B
-
-**Explanation**
-
-Image segmentation assigns a label to each pixel in an image. Semantic segmentation labels pixels by type (sky, tree, person). Instance segmentation distinguishes individual objects. It's useful for medical imaging, autonomous vehicles, and scene understanding.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ Image segmentation assigns a label to each pixel in an image. Semantic segmentat
 **Difficulty**: hard
 
 **Convolutional filters (kernels) help detect specific features like edges and textures.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Convolutional filters are small matrices that slide across an image looking for patterns. Early layers detect simple features like edges, while deeper layers combine them to recognize complex patterns like faces or objects.
 
 ---
 
@@ -125,12 +89,6 @@ Convolutional filters are small matrices that slide across an image looking for 
 - C) Transferring AI models to humans
 - D) Moving vision data to the cloud
 
-**Correct Answer**: B
-
-**Explanation**
-
-Transfer learning is when a model trained on a large dataset (like ImageNet) is adapted for a different task. Instead of training from scratch, you reuse learned features. This saves time and works well with limited data.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ Transfer learning is when a model trained on a large dataset (like ImageNet) is 
 **Difficulty**: hard
 
 **Autonomous vehicles use computer vision to understand their environment.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Self-driving cars use cameras and computer vision to see roads, detect obstacles, recognize traffic signs, and identify pedestrians. Computer vision is crucial for vehicle safety and navigation.
 
 ---
 
@@ -158,12 +110,6 @@ Self-driving cars use cameras and computer vision to see roads, detect obstacles
 - C) Weak AI: uses weak computers; Strong AI: uses powerful computers
 - D) There is no difference
 
-**Correct Answer**: B
-
-**Explanation**
-
-Weak AI does specific tasks well (recognize faces, identify objects) but lacks general understanding. Strong AI would understand images at a human level and transfer that understanding to new situations. We have weak AI; strong AI is still theoretical.
-
 ---
 
 ### Question 10
@@ -171,12 +117,6 @@ Weak AI does specific tasks well (recognize faces, identify objects) but lacks g
 **Difficulty**: hard
 
 **Computer vision can be fooled by adversarial examples - carefully crafted inputs that cause misclassification.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Adversarial examples are images that fool AI systems. A small change invisible to humans can cause a neural network to misclassify. This is a security concern for safety-critical applications like autonomous vehicles.
 
 ---
 
@@ -191,13 +131,7 @@ Adversarial examples are images that fool AI systems. A small change invisible t
 - C) It requires too much electricity
 - D) Nobody uses it
 
-**Correct Answer**: B
-
-**Explanation**
-
-Facial recognition raises important ethical issues. It enables surveillance without consent. It often has higher error rates for people of color. Misidentification can lead to wrongful arrests. Society must carefully regulate this technology.
-
----
+\newpage
 
 ## Answer Key
 

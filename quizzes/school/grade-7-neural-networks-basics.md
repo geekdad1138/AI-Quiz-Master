@@ -26,12 +26,6 @@ Seventh graders explore neural networks - the brain-inspired technology behind m
 - C) Power grids
 - D) Transportation networks
 
-**Correct Answer**: B
-
-**Explanation**
-
-Artificial neural networks are inspired by how brains work. The brain has neurons that connect and communicate with each other. Computer scientists tried to recreate this in software to make more intelligent systems.
-
 ---
 
 ### Question 2
@@ -39,12 +33,6 @@ Artificial neural networks are inspired by how brains work. The brain has neuron
 **Difficulty**: medium
 
 **An artificial neuron is the basic building block of a neural network.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Like the brain's neurons, artificial neurons are the smallest units in a neural network. Many neurons connected together form a neural network, and many networks can be stacked in layers.
 
 ---
 
@@ -59,12 +47,6 @@ Like the brain's neurons, artificial neurons are the smallest units in a neural 
 - C) A section of the computer
 - D) A type of data
 
-**Correct Answer**: B
-
-**Explanation**
-
-A layer is a group of neurons organized together. Neural networks typically have an input layer, hidden layers, and an output layer. Information flows through these layers to produce results.
-
 ---
 
 ### Question 4
@@ -72,12 +54,6 @@ A layer is a group of neurons organized together. Neural networks typically have
 **Difficulty**: medium
 
 **"Deep learning" means a neural network with many layers.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Deep learning is when neural networks have many layers (deep). Deep learning has been very successful at tasks like recognizing images and understanding language because the multiple layers can learn complex patterns.
 
 ---
 
@@ -92,12 +68,6 @@ Deep learning is when neural networks have many layers (deep). Deep learning has
 - C) Through sound waves
 - D) They don't communicate
 
-**Correct Answer**: B
-
-**Explanation**
-
-Artificial neurons pass numerical information through weighted connections. Each connection has a "weight" that affects how strongly one neuron influences the next. These weights get adjusted during learning.
-
 ---
 
 ### Question 6
@@ -105,12 +75,6 @@ Artificial neurons pass numerical information through weighted connections. Each
 **Difficulty**: hard
 
 **Backpropagation is a method used to train neural networks.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-Backpropagation is an important algorithm for training neural networks. It calculates how much each weight contributed to errors and adjusts them to reduce mistakes. This happens over many cycles of training.
 
 ---
 
@@ -125,12 +89,6 @@ Backpropagation is an important algorithm for training neural networks. It calcu
 - C) A function that deletes data
 - D) A function that moves data between layers
 
-**Correct Answer**: B
-
-**Explanation**
-
-Activation functions are mathematical functions that determine whether a neuron should send its signal forward. Common activation functions include ReLU and sigmoid. They add non-linearity to the network, allowing it to learn complex patterns.
-
 ---
 
 ### Question 8
@@ -138,12 +96,6 @@ Activation functions are mathematical functions that determine whether a neuron 
 **Difficulty**: hard
 
 **Convolutional Neural Networks (CNNs) are especially good at processing images.**
-
-**Correct Answer**: True
-
-**Explanation**
-
-CNNs are specialized neural networks designed for image processing. They use special layers called convolutional layers that can recognize patterns, edges, and shapes in images. They're used for facial recognition and computer vision.
 
 ---
 
@@ -158,12 +110,6 @@ CNNs are specialized neural networks designed for image processing. They use spe
 - C) When connections are too strong
 - D) When layers are too deep
 
-**Correct Answer**: B
-
-**Explanation**
-
-Overfitting happens when a neural network memorizes specific examples instead of learning general patterns. It works great on training data but poorly on new data. Developers use techniques like regularization to prevent this.
-
 ---
 
 ### Question 10
@@ -177,13 +123,7 @@ Overfitting happens when a neural network memorizes specific examples instead of
 - C) Only video games
 - D) No field has been significantly affected
 
-**Correct Answer**: B
-
-**Explanation**
-
-Deep neural networks have transformed many fields. They've enabled computer vision, language translation, speech recognition, game playing (AlphaGo), and much more. They're one of the most important AI technologies today.
-
----
+\newpage
 
 ## Answer Key
 
