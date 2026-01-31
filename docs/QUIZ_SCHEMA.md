@@ -186,6 +186,7 @@ Supervised learning uses labeled training data where each example has both input
 4. **Consistency**: Follow the schema exactly for conversion automation
 5. **Accessibility**: Use clear language appropriate for the target level
 6. **Balance**: Mix difficulty levels to create engaging assessments
+7. **Answer Visibility**: Include "Correct Answer" and "Explanation" fields in the markdown source for digital/interactive formats, but conversion tools should separate these so printed versions show only questions and options, with answers appearing only in the Answer Key section
 
 ## Future Enhancements
 
